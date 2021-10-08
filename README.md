@@ -1,4 +1,6 @@
-# Data Pipelines with Airflow
+# Project 5: Data Pipelines with Airflow
+-------------------------
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
 
 ## Purpose
 
